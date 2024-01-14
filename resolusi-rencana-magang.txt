@@ -1,4 +1,5 @@
 rencana magang rastek
 1. memahami apa itu YOLOv3
     apa itu comvis dan apa itu yolov3
+    belajar apa itu opencv
 2. mengaplikasikan pretrained model menggunakan OpenCV
