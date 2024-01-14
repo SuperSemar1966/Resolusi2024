@@ -2,6 +2,8 @@ rencana magang rastek
 1. memahami apa itu YOLOv3
     apa itu comvis dan apa itu yolov3
     belajar apa itu opencv
-        opencv adalah platform
+        opencv adalah model
+        masih belum tau apa itu opencv
 2. mengaplikasikan pretrained model menggunakan OpenCV
-3. bismillah diterima magang
+    aya  lieuran saeutik
+3. bismillah jadi magang
