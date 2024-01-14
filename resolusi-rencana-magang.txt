@@ -1,0 +1,3 @@
+rencana magang rastek
+1. memahami apa itu YOLOv3
+2. mengaplikasikan pretrained model menggunakan OpenCV
